@@ -5,9 +5,9 @@
 Foi realizado a criação de um ebook criado utilizando IAs Generativas, detalhando como a segurnaça da informação é essencial na Era das Inteligências Artificiais.
 
 ## 🤖 Tecnologias Utilizadas
-- A IA Generativa **[GAMA APP](https://gamma.app) para criação do Ebook
-- A IA Generativa **[Leonardo AI](https://leonardo.ai/) para a geração de Imagens do Ebook
-- A IA Generativa **[Bing Chat](https://www.bing.com/chat) para a geração de Imagens do Ebook
+- A IA Generativa **[GAMA APP](https://gamma.app)** para criação do Ebook
+- A IA Generativa **[Leonardo AI](https://leonardo.ai/)** para a geração de Imagens do Ebook
+- A IA Generativa **[Bing Chat](https://www.bing.com/chat)** para a geração de Imagens do Ebook
 
 ## 🧐 Processo de Criação
 Eu descrevi para o "GAMA APP" como seria a geração do conteúdo para o ebook e utilizei as IAs "Bing Chat" e "Leonardo IA" para a geração de imagens que fizessem complemento no conteúdo do ebook.
