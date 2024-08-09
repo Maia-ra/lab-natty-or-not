@@ -18,3 +18,5 @@ O e-book apresenta um conteúdo objetivo, com reflexão sobre a Seguranção da 
 ## 💭 Reflexão (Opcional)
 A conclusão desse material foi relativamente rápida. A maior parte do trabalho concentrou-se na revisão e formatação.
 
+## Link
+- **[E-BOOK](/Ebook-Seguranca-da-Informacao-na-Era-das-IAs.pdf)**
