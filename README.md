@@ -2,7 +2,7 @@
 # Segurança da Informação na Era das IAs ;)
 
 ## 📒 Descrição
-Foi realizado a criação de um ebook criado utilizando IAs Generativas, detalhando como a segurnaça da informação é essencial na Era das Inteligências Artificiais.
+Foi realizado a criação de um ebook criado utilizando IAs Generativas, detalhando como a segurança da informação é essencial na Era das Inteligências Artificiais.
 
 ## 🤖 Tecnologias Utilizadas
 - A IA Generativa **[GAMA APP](https://gamma.app)** para criação do Ebook
