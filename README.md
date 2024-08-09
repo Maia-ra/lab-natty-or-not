@@ -19,4 +19,4 @@ O e-book apresenta um conteúdo objetivo, com reflexão sobre a Seguranção da 
 A conclusão desse material foi relativamente rápida. A maior parte do trabalho concentrou-se na revisão e formatação.
 
 ## Link
-- **[E-BOOK](/Ebook-Seguranca-da-Informacao-na-Era-das-IAs.pdf)**
+- **[E-Book Segurança da Informação na Era das IAs](/Ebook-Seguranca-da-Informacao-na-Era-das-IAs.pdf)**
