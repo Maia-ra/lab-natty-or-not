@@ -1,4 +1,4 @@
-```markdown
+
 # Segurança da Informação na Era das IAs ;)
 
 ## 📒 Descrição
@@ -17,4 +17,4 @@ O e-book apresenta um conteúdo objetivo, com reflexão sobre a Seguranção da 
 
 ## 💭 Reflexão (Opcional)
 A conclusão desse material foi relativamente rápida. A maior parte do trabalho concentrou-se na revisão e formatação.
-```
+
